@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -70,3 +71,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 =======
 # recipe-app
 >>>>>>> d7fb516ab36b5152945081e41752db25445398b6
+=======
+# recipe-app
+>>>>>>> ff3824bf661bc085dba310d32ca424dd3ae2712a
